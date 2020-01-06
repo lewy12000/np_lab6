@@ -5,8 +5,10 @@
 #include "km.c"
 
 int main() {
-  double n;
+
+  int n;
   int w;
+
   printf("Podaj wartosc (w metrach): ");
   scanf("%d", &n);
   printf("Jakiej zamiany chcesz dokonac?\n");
