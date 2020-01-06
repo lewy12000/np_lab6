@@ -1,1 +1,0 @@
-Twórcy: £ukasz Mencel, Jakub Lewandowski, Jakub Markowski
