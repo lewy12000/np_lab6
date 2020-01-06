@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int cm(float d) {
+<<<<<<< HEAD
+int cm(int d) {
   return d*90040;
 }
