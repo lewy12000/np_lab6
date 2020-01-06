@@ -6,7 +6,7 @@
 
 int main() {
   int n;
-  int w;
+  double w;
   printf("Podaj wartosc (w metrach): ");
   scanf("%d", &n);
   printf("Jakiej zamiany chcesz dokonac?\n");
