@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int cm(int d) {
-  return d*10540;
+  return d*90040;
 }
