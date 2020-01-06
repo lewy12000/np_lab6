@@ -5,7 +5,7 @@
 #include "km.c"
 
 int main() {
-  int n;
+  double n;
   int w;
   printf("Podaj wartosc (w metrach): ");
   scanf("%d", &n);
