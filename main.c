@@ -1,8 +1,4 @@
 #include <stdio.h>
-#include "cm.c"
-#include "mm.c"
-#include "dm.c"
-#include "km.c"
 
 int cm(int d) {
   return d*100;
