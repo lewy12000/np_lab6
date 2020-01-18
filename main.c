@@ -4,6 +4,23 @@
 #include "dm.c"
 #include "km.c"
 
+int cm(int d) {
+  return d*100;
+}
+int dm(int d) {
+  return d*10;
+}
+float km(float d) {
+  float wynik;
+  wynik = d*0.001;
+  return wynik;
+}
+int mm(int d) {
+  return d*1000;
+}
+
+
+
 int main() {
 
   int n;
